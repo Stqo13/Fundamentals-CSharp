@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\bin\Debug\netcoreapp3.1\Basic rewind - Urp.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\bin\Debug\netcoreapp3.1\Basic rewind - Urp.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\bin\Debug\netcoreapp3.1\Basic rewind - Urp.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\bin\Debug\netcoreapp3.1\Basic rewind - Urp.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\bin\Debug\netcoreapp3.1\Basic rewind - Urp.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\bin\Debug\netcoreapp3.1\Basic rewind - Urp.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\obj\Debug\netcoreapp3.1\Basic rewind - Urp.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\obj\Debug\netcoreapp3.1\Basic rewind - Urp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\obj\Debug\netcoreapp3.1\Basic rewind - Urp.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\obj\Debug\netcoreapp3.1\Basic rewind - Urp.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\obj\Debug\netcoreapp3.1\Basic rewind - Urp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\obj\Debug\netcoreapp3.1\Basic rewind - Urp.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\obj\Debug\netcoreapp3.1\Basic rewind - Urp.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Basic rewind - Urp\Basic rewind - Urp\Basic rewind - Urp\obj\Debug\netcoreapp3.1\Basic rewind - Urp.genruntimeconfig.cache

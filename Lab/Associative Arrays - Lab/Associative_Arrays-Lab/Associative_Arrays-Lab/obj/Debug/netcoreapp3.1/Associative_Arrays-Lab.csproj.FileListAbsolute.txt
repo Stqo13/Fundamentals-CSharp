@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\bin\Debug\netcoreapp3.1\Associative_Arrays-Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\bin\Debug\netcoreapp3.1\Associative_Arrays-Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\bin\Debug\netcoreapp3.1\Associative_Arrays-Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\bin\Debug\netcoreapp3.1\Associative_Arrays-Lab.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\bin\Debug\netcoreapp3.1\Associative_Arrays-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\bin\Debug\netcoreapp3.1\Associative_Arrays-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\obj\Debug\netcoreapp3.1\Associative_Arrays-Lab.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\obj\Debug\netcoreapp3.1\Associative_Arrays-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\obj\Debug\netcoreapp3.1\Associative_Arrays-Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\obj\Debug\netcoreapp3.1\Associative_Arrays-Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\obj\Debug\netcoreapp3.1\Associative_Arrays-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\obj\Debug\netcoreapp3.1\Associative_Arrays-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\obj\Debug\netcoreapp3.1\Associative_Arrays-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Associative Arrays - Lab\Associative_Arrays-Lab\Associative_Arrays-Lab\obj\Debug\netcoreapp3.1\Associative_Arrays-Lab.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\bin\Debug\netcoreapp3.1\Objects-Classes-Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\bin\Debug\netcoreapp3.1\Objects-Classes-Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\bin\Debug\netcoreapp3.1\Objects-Classes-Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\bin\Debug\netcoreapp3.1\Objects-Classes-Lab.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\bin\Debug\netcoreapp3.1\Objects-Classes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\bin\Debug\netcoreapp3.1\Objects-Classes-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\obj\Debug\netcoreapp3.1\Objects-Classes-Lab.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\obj\Debug\netcoreapp3.1\Objects-Classes-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\obj\Debug\netcoreapp3.1\Objects-Classes-Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\obj\Debug\netcoreapp3.1\Objects-Classes-Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\obj\Debug\netcoreapp3.1\Objects-Classes-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\obj\Debug\netcoreapp3.1\Objects-Classes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\obj\Debug\netcoreapp3.1\Objects-Classes-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\Objects-Classes-Lab\obj\Debug\netcoreapp3.1\Objects-Classes-Lab.genruntimeconfig.cache

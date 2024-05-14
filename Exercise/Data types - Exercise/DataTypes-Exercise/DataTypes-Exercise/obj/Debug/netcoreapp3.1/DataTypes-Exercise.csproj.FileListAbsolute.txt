@@ -1,0 +1,28 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\bin\Debug\netcoreapp3.1\DataTypes-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Data types - Exercise\DataTypes-Exercise\DataTypes-Exercise\obj\Debug\netcoreapp3.1\DataTypes-Exercise.genruntimeconfig.cache

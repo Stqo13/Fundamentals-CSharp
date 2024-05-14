@@ -1,0 +1,28 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.genruntimeconfig.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\bin\Debug\netcoreapp3.1\redoing.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Arrays - upr\Arrays-Upr\redoing\obj\Debug\netcoreapp3.1\redoing.genruntimeconfig.cache

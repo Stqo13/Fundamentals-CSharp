@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\bin\Debug\netcoreapp3.1\List-Exercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\bin\Debug\netcoreapp3.1\List-Exercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\bin\Debug\netcoreapp3.1\List-Exercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\bin\Debug\netcoreapp3.1\List-Exercise.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\bin\Debug\netcoreapp3.1\List-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\bin\Debug\netcoreapp3.1\List-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\obj\Debug\netcoreapp3.1\List-Exercise.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\obj\Debug\netcoreapp3.1\List-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\obj\Debug\netcoreapp3.1\List-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\obj\Debug\netcoreapp3.1\List-Exercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\obj\Debug\netcoreapp3.1\List-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\obj\Debug\netcoreapp3.1\List-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\obj\Debug\netcoreapp3.1\List-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\List - Exercise\List-Exercise\List-Exercise\obj\Debug\netcoreapp3.1\List-Exercise.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\bin\Debug\netcoreapp3.1\Basics rewind - Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\bin\Debug\netcoreapp3.1\Basics rewind - Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\bin\Debug\netcoreapp3.1\Basics rewind - Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\bin\Debug\netcoreapp3.1\Basics rewind - Lab.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\bin\Debug\netcoreapp3.1\Basics rewind - Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\bin\Debug\netcoreapp3.1\Basics rewind - Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\obj\Debug\netcoreapp3.1\Basics rewind - Lab.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\obj\Debug\netcoreapp3.1\Basics rewind - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\obj\Debug\netcoreapp3.1\Basics rewind - Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\obj\Debug\netcoreapp3.1\Basics rewind - Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\obj\Debug\netcoreapp3.1\Basics rewind - Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\obj\Debug\netcoreapp3.1\Basics rewind - Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\obj\Debug\netcoreapp3.1\Basics rewind - Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Basics rewind - Lab\Basics rewind - Lab\obj\Debug\netcoreapp3.1\Basics rewind - Lab.genruntimeconfig.cache

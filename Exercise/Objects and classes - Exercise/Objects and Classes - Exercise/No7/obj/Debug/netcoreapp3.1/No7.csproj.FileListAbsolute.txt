@@ -1,0 +1,13 @@
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\bin\Debug\netcoreapp3.1\No7.exe
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\bin\Debug\netcoreapp3.1\No7.deps.json
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\bin\Debug\netcoreapp3.1\No7.runtimeconfig.json
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\bin\Debug\netcoreapp3.1\No7.runtimeconfig.dev.json
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\bin\Debug\netcoreapp3.1\No7.dll
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\bin\Debug\netcoreapp3.1\No7.pdb
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\obj\Debug\netcoreapp3.1\No7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\obj\Debug\netcoreapp3.1\No7.AssemblyInfoInputs.cache
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\obj\Debug\netcoreapp3.1\No7.AssemblyInfo.cs
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\obj\Debug\netcoreapp3.1\No7.csproj.CoreCompileInputs.cache
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\obj\Debug\netcoreapp3.1\No7.dll
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\obj\Debug\netcoreapp3.1\No7.pdb
+C:\Users\Алекс Стефанов\Desktop\SoftUni\Programming Fundamentals C#\Objects and Classes - Exercise\Objects and Classes - Exercise\No7\obj\Debug\netcoreapp3.1\No7.genruntimeconfig.cache

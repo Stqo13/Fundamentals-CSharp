@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\bin\Debug\netcoreapp3.1\Zad.10-Type2.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\bin\Debug\netcoreapp3.1\Zad.10-Type2.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\bin\Debug\netcoreapp3.1\Zad.10-Type2.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\bin\Debug\netcoreapp3.1\Zad.10-Type2.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\bin\Debug\netcoreapp3.1\Zad.10-Type2.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\bin\Debug\netcoreapp3.1\Zad.10-Type2.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\obj\Debug\netcoreapp3.1\Zad.10-Type2.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\obj\Debug\netcoreapp3.1\Zad.10-Type2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\obj\Debug\netcoreapp3.1\Zad.10-Type2.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\obj\Debug\netcoreapp3.1\Zad.10-Type2.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\obj\Debug\netcoreapp3.1\Zad.10-Type2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\obj\Debug\netcoreapp3.1\Zad.10-Type2.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\obj\Debug\netcoreapp3.1\Zad.10-Type2.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab-Part2\Zad.10-Type2\obj\Debug\netcoreapp3.1\Zad.10-Type2.genruntimeconfig.cache

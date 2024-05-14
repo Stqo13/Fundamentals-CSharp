@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\bin\Debug\netcoreapp3.1\Methods-Exercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\bin\Debug\netcoreapp3.1\Methods-Exercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\bin\Debug\netcoreapp3.1\Methods-Exercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\bin\Debug\netcoreapp3.1\Methods-Exercise.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\bin\Debug\netcoreapp3.1\Methods-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\bin\Debug\netcoreapp3.1\Methods-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\obj\Debug\netcoreapp3.1\Methods-Exercise.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\obj\Debug\netcoreapp3.1\Methods-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\obj\Debug\netcoreapp3.1\Methods-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\obj\Debug\netcoreapp3.1\Methods-Exercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\obj\Debug\netcoreapp3.1\Methods-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\obj\Debug\netcoreapp3.1\Methods-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\obj\Debug\netcoreapp3.1\Methods-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Methods - Exercise\Methods-Exercise\Methods-Exercise\obj\Debug\netcoreapp3.1\Methods-Exercise.genruntimeconfig.cache

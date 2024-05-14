@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\bin\Debug\netcoreapp3.1\RegEx-Exercise.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\bin\Debug\netcoreapp3.1\RegEx-Exercise.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\bin\Debug\netcoreapp3.1\RegEx-Exercise.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\bin\Debug\netcoreapp3.1\RegEx-Exercise.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\bin\Debug\netcoreapp3.1\RegEx-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\bin\Debug\netcoreapp3.1\RegEx-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\obj\Debug\netcoreapp3.1\RegEx-Exercise.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\obj\Debug\netcoreapp3.1\RegEx-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\obj\Debug\netcoreapp3.1\RegEx-Exercise.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\obj\Debug\netcoreapp3.1\RegEx-Exercise.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\obj\Debug\netcoreapp3.1\RegEx-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\obj\Debug\netcoreapp3.1\RegEx-Exercise.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\obj\Debug\netcoreapp3.1\RegEx-Exercise.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Упражнение\Regular Expressions - Exercise\RegEx-Exercise\RegEx-Exercise\obj\Debug\netcoreapp3.1\RegEx-Exercise.genruntimeconfig.cache

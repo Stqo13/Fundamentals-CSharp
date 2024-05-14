@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\bin\Debug\netcoreapp3.1\RedEx-Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\bin\Debug\netcoreapp3.1\RedEx-Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\bin\Debug\netcoreapp3.1\RedEx-Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\bin\Debug\netcoreapp3.1\RedEx-Lab.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\bin\Debug\netcoreapp3.1\RedEx-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\bin\Debug\netcoreapp3.1\RedEx-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\obj\Debug\netcoreapp3.1\RedEx-Lab.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\obj\Debug\netcoreapp3.1\RedEx-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\obj\Debug\netcoreapp3.1\RedEx-Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\obj\Debug\netcoreapp3.1\RedEx-Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\obj\Debug\netcoreapp3.1\RedEx-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\obj\Debug\netcoreapp3.1\RedEx-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\obj\Debug\netcoreapp3.1\RedEx-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Regular Expressions - Lab\RedEx-Lab\RedEx-Lab\obj\Debug\netcoreapp3.1\RedEx-Lab.genruntimeconfig.cache

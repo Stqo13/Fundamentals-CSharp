@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\bin\Debug\netcoreapp3.1\zad.7.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\bin\Debug\netcoreapp3.1\zad.7.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\bin\Debug\netcoreapp3.1\zad.7.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\bin\Debug\netcoreapp3.1\zad.7.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\bin\Debug\netcoreapp3.1\zad.7.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\bin\Debug\netcoreapp3.1\zad.7.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\obj\Debug\netcoreapp3.1\zad.7.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\obj\Debug\netcoreapp3.1\zad.7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\obj\Debug\netcoreapp3.1\zad.7.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\obj\Debug\netcoreapp3.1\zad.7.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\obj\Debug\netcoreapp3.1\zad.7.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\obj\Debug\netcoreapp3.1\zad.7.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\obj\Debug\netcoreapp3.1\zad.7.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Objects and Classes - Lab\Objects-Classes-Lab\zad.7\obj\Debug\netcoreapp3.1\zad.7.genruntimeconfig.cache

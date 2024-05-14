@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\bin\Debug\netcoreapp3.1\DataTypes-Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\bin\Debug\netcoreapp3.1\DataTypes-Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\bin\Debug\netcoreapp3.1\DataTypes-Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\bin\Debug\netcoreapp3.1\DataTypes-Lab.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\bin\Debug\netcoreapp3.1\DataTypes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\bin\Debug\netcoreapp3.1\DataTypes-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\obj\Debug\netcoreapp3.1\DataTypes-Lab.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\obj\Debug\netcoreapp3.1\DataTypes-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\obj\Debug\netcoreapp3.1\DataTypes-Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\obj\Debug\netcoreapp3.1\DataTypes-Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\obj\Debug\netcoreapp3.1\DataTypes-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\obj\Debug\netcoreapp3.1\DataTypes-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\obj\Debug\netcoreapp3.1\DataTypes-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Лаб\Data Types - Lab\DataTypes-Lab\DataTypes-Lab\obj\Debug\netcoreapp3.1\DataTypes-Lab.genruntimeconfig.cache

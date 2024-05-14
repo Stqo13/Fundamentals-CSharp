@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Basic rewind - Urp/1.0.0": {
+        "runtime": {
+          "Basic rewind - Urp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Basic rewind - Urp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

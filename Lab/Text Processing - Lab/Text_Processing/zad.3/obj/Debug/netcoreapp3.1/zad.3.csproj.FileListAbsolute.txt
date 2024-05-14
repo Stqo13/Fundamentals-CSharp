@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\bin\Debug\netcoreapp3.1\zad.3.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\bin\Debug\netcoreapp3.1\zad.3.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\bin\Debug\netcoreapp3.1\zad.3.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\bin\Debug\netcoreapp3.1\zad.3.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\bin\Debug\netcoreapp3.1\zad.3.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\bin\Debug\netcoreapp3.1\zad.3.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\obj\Debug\netcoreapp3.1\zad.3.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\obj\Debug\netcoreapp3.1\zad.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\obj\Debug\netcoreapp3.1\zad.3.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\obj\Debug\netcoreapp3.1\zad.3.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\obj\Debug\netcoreapp3.1\zad.3.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\obj\Debug\netcoreapp3.1\zad.3.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\obj\Debug\netcoreapp3.1\zad.3.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\zad.3\obj\Debug\netcoreapp3.1\zad.3.genruntimeconfig.cache

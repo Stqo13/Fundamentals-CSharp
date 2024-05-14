@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\bin\Debug\netcoreapp3.1\Arrays-Upr.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\bin\Debug\netcoreapp3.1\Arrays-Upr.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\bin\Debug\netcoreapp3.1\Arrays-Upr.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\bin\Debug\netcoreapp3.1\Arrays-Upr.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\bin\Debug\netcoreapp3.1\Arrays-Upr.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\bin\Debug\netcoreapp3.1\Arrays-Upr.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\obj\Debug\netcoreapp3.1\Arrays-Upr.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\obj\Debug\netcoreapp3.1\Arrays-Upr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\obj\Debug\netcoreapp3.1\Arrays-Upr.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\obj\Debug\netcoreapp3.1\Arrays-Upr.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\obj\Debug\netcoreapp3.1\Arrays-Upr.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\obj\Debug\netcoreapp3.1\Arrays-Upr.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\obj\Debug\netcoreapp3.1\Arrays-Upr.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C# - септември 2022\Упражнение\Arrays - upr\Arrays-Upr\Arrays-Upr\obj\Debug\netcoreapp3.1\Arrays-Upr.genruntimeconfig.cache

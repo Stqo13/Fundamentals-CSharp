@@ -1,0 +1,13 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\bin\Debug\netcoreapp3.1\Zad.9-Type-2.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\bin\Debug\netcoreapp3.1\Zad.9-Type-2.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\bin\Debug\netcoreapp3.1\Zad.9-Type-2.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\bin\Debug\netcoreapp3.1\Zad.9-Type-2.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\bin\Debug\netcoreapp3.1\Zad.9-Type-2.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\bin\Debug\netcoreapp3.1\Zad.9-Type-2.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\obj\Debug\netcoreapp3.1\Zad.9-Type-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\obj\Debug\netcoreapp3.1\Zad.9-Type-2.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\obj\Debug\netcoreapp3.1\Zad.9-Type-2.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\obj\Debug\netcoreapp3.1\Zad.9-Type-2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\obj\Debug\netcoreapp3.1\Zad.9-Type-2.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\obj\Debug\netcoreapp3.1\Zad.9-Type-2.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Methods - Lab\Methods-Lab\Zad.9-Type-2\obj\Debug\netcoreapp3.1\Zad.9-Type-2.genruntimeconfig.cache

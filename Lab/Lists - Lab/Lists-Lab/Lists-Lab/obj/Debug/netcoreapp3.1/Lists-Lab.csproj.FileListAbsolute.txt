@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\bin\Debug\netcoreapp3.1\Lists-Lab.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\bin\Debug\netcoreapp3.1\Lists-Lab.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\bin\Debug\netcoreapp3.1\Lists-Lab.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\bin\Debug\netcoreapp3.1\Lists-Lab.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\bin\Debug\netcoreapp3.1\Lists-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\bin\Debug\netcoreapp3.1\Lists-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\obj\Debug\netcoreapp3.1\Lists-Lab.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\obj\Debug\netcoreapp3.1\Lists-Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\obj\Debug\netcoreapp3.1\Lists-Lab.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\obj\Debug\netcoreapp3.1\Lists-Lab.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\obj\Debug\netcoreapp3.1\Lists-Lab.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\obj\Debug\netcoreapp3.1\Lists-Lab.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\obj\Debug\netcoreapp3.1\Lists-Lab.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Lists - Lab\Lists-Lab\Lists-Lab\obj\Debug\netcoreapp3.1\Lists-Lab.genruntimeconfig.cache

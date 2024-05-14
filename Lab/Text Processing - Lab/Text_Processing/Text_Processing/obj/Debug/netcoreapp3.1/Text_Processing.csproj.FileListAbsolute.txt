@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\bin\Debug\netcoreapp3.1\Text_Processing.exe
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\bin\Debug\netcoreapp3.1\Text_Processing.deps.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\bin\Debug\netcoreapp3.1\Text_Processing.runtimeconfig.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\bin\Debug\netcoreapp3.1\Text_Processing.runtimeconfig.dev.json
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\bin\Debug\netcoreapp3.1\Text_Processing.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\bin\Debug\netcoreapp3.1\Text_Processing.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\obj\Debug\netcoreapp3.1\Text_Processing.csproj.AssemblyReference.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\obj\Debug\netcoreapp3.1\Text_Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\obj\Debug\netcoreapp3.1\Text_Processing.AssemblyInfoInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\obj\Debug\netcoreapp3.1\Text_Processing.AssemblyInfo.cs
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\obj\Debug\netcoreapp3.1\Text_Processing.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\obj\Debug\netcoreapp3.1\Text_Processing.dll
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\obj\Debug\netcoreapp3.1\Text_Processing.pdb
+C:\Users\Dell\Documents\SoftUni\Programming Fundamentals with C#\Лаб\Text Processing - Lab\Text_Processing\Text_Processing\obj\Debug\netcoreapp3.1\Text_Processing.genruntimeconfig.cache
